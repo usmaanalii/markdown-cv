@@ -14,20 +14,29 @@ Final year business and finance college student
 
 In my final year of college
 
+<br />
+<br />
+
 ### Why you should hire me
 
 I'm a motivated A level student with excellent punctuality and strong work ethics, seeking opportunities to gain valuable work experience and develop professionally.
-
+<br />
 I'm eager to expand my practical skills, acquire further knowledge, and grow both personally and professionally
-
+<br />
 I'm enthusiastic about delivering excellent customer service, as a dependable individual.
-
+<br />
 I'm experienced in working on tight deadlines, have excellent computer skills and am proficient in delivering hands on support.
+
+<br />
+<br />
 
 ## Education
 
 `2022-Current`
 __Stoke on Trent Sixth Form College__
+
+<br />
+<br />
 
 `2017-2022`
 __Birches Head High School__
