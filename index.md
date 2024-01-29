@@ -16,7 +16,13 @@ In my final year of college
 
 ### Why you should hire me
 
-I'm a proactive, confident and efficient worker. I'm keen to gain experience and enhance my skillset as I progress with my studies.
+I'm a motivated A level student with excellent punctuality and strong work ethics, seeking opportunities to gain valuable work experience and develop professionally.
+
+I'm eager to expand my practical skills, acquire further knowledge, and grow both personally and professionally
+
+I'm enthusiastic about delivering excellent customer service, as a dependable individual.
+
+I'm experienced in working on tight deadlines, have excellent computer skills and am proficient in delivering hands on support.
 
 ## Education
 
@@ -26,11 +32,10 @@ __Stoke on Trent Sixth Form College__
 `2017-2022`
 __Birches Head High School__
 
-- Math - 5
-
-
-- Fellow
-
+- Math 5
+- English 4
+- Science 5
+- History 4
 
 <!-- ### Footer
 
