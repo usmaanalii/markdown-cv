@@ -21,9 +21,12 @@ In my final year of college
 
 I'm a motivated A level student with excellent punctuality and strong work ethics, seeking opportunities to gain valuable work experience and develop professionally.
 <br />
+<br />
 I'm eager to expand my practical skills, acquire further knowledge, and grow both personally and professionally
 <br />
+<br />
 I'm enthusiastic about delivering excellent customer service, as a dependable individual.
+<br />
 <br />
 I'm experienced in working on tight deadlines, have excellent computer skills and am proficient in delivering hands on support.
 
