@@ -6,7 +6,7 @@ title: Subhaan Shazad
 Final year business and finance college student
 
 <div id="webaddress">
-<a href="subhaan_shazaad@hotmail.co.uk">subhaan_shazaad@hotmail.co.uk</a>
+<a href="subhanshazadiqbal@gmail.com">subhanshazadiqbal@gmail.com</a>
 </div>
 
 
