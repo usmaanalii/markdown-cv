@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Subhaan Shazad
+title: Subhan Shazad
 ---
 # Subhaan Shazad
 Final year business and finance college student
